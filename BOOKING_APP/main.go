@@ -149,3 +149,5 @@ func sendTicket(userTickets uint, firstName string, lastName string, email strin
 	wg.Done()
 
 }
+
+// THIS CODE HELPS US TO BOOK TICKET FOR A CONFERENCE
